@@ -1,0 +1,6 @@
+*.exe
+*.o
+a.out
+slave.out
+__pycache__/
+*.pyc
